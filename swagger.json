@@ -1,0 +1,6 @@
+{
+    "name": "String",
+    "breed": "String",
+    "age": "Number",
+    "sex": "String"
+}
